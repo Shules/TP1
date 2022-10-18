@@ -1,3 +1,3 @@
 # Ideas para primer e-comerce 
 ---
-## Refs
+## Referencias
